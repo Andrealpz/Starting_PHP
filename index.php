@@ -9,5 +9,6 @@
 	</head>
 	<body>
 		<a href="variable.php">Exercice 1</a>
+		<a href="boucle.php">Exercice 3</a>
 	</body>
 </html>
