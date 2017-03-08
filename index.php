@@ -10,5 +10,7 @@
 	<body>
 		<a href="variable.php">Exercice 1</a>
 		<a href="boucle.php">Exercice 3</a>
+		<a href="fonction.php">Exercice 4</a>
+		<a href="tableaux.php">exercice5</a>
 	</body>
 </html>

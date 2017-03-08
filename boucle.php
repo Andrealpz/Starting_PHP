@@ -41,24 +41,26 @@ while ($Num1 <10) {
 /*EXERCICE 5*/
 /*en allant de 1 a 15 avec un pas de 1, afficher le message " on y arrive presque"*/
 
-for ($i=0; $i < 15 ; $i++) { 
+for ($j=0; $j < 15 ; $j++) { 
 	echo "on y arrive presque";
 }
 /*EXERCICE 6*/
 /*en allant de 20 a 0 avec un pas de 1 , afficher le message " c'est presque bon"*/
-for ($i=20; $i > 0 ; $i++) { 
+for ($i=20; $i > 0 ; $i--) { 
 	echo "c'est presque bon";
 }
 
 /*EXO 7*/
 /*en allant de 1 a 100 avec un pas de 15 affcher on tient le bon bout*/
-for ($i=1; $i > 100 ; $i=$i+15) { 
+for ($i=1; $i < 100 ; $i=$i+15) { 
 	echo "on tient le bon bout";
 }
 
 /*EXERCICE 8*/
 /*en allant de 200 a 0 avec un pas de 12 , afficher enfin !*/
-for ($i=200; $i > 0 ; $i=$i+12) { 
+for ($i=200; $i > 0 ; $i=$i-12) { 
 	echo "enfin!!!";
 }
+/*EXERCICE 9*/
+
 ?>
