@@ -43,4 +43,5 @@ foreach ($departements as $key => $value) {
 	echo $key;
 }
 echo "le departement de ".$value." a le numéro de ".$key;
+
 ?>

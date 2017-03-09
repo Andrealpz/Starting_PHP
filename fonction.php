@@ -37,7 +37,7 @@ function chaine($chaine , $nombre){
 function blabla($nom , $prenom , $age){
 	return ' bonjour '.$nom.$prenom' tu as '.$age' ans ';
 }
-/*EXERCICE 3*/
+/*EXERCICE 7*/
 function nombres($age , $genre) {
 	if ($genre = 'homme' && $age >= 18) {
 		return 'Vous êtes un homme et vous êtes majeur';
